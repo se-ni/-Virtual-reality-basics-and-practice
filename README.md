@@ -1,1 +1,1 @@
-# -Virtual-reality-basics-and-practice
+# Virtual-reality-basics-and-practice

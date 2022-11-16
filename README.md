@@ -2,7 +2,7 @@
 ### :video_game:&nbsp;&nbsp;**Term Project for 2020**&nbsp;&nbsp;:video_game:
 
 
-**\- Title :** 볼링 VR 시뮬레이션 게임				
+**\- Title :** VR 볼링 시뮬레이션 게임				
 
 **\- 개발 툴 :** Unity 3D
 

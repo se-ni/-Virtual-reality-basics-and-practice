@@ -14,9 +14,6 @@
 
 1. UI를 이용하여 시작 Scene,  메인 Scene, 엔딩 Scene으로 나누어 버튼 클릭 시 -> 장면 전환       
 2. Text를 이용하여 볼링공과 볼링핀의 충돌을 인식하여 점수 계산 후 -> 화면 출력
-	<details>
-	<summary>코드</summary>
-	</details>
               
 <h2>구현 시 아쉬웠던 점</h2>
 
